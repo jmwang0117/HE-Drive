@@ -10,7 +10,7 @@
 ## 📢 News
 
 
-- [2024/10.08]: 🔥 We released the code for the sparse perception module and diffusion-based planner.
+- [2024/10.08]: 🔥 We release the HE-Drive paper on arXiv.
 
 </br>
 
