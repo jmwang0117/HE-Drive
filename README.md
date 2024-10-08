@@ -2,7 +2,7 @@
     <h1>🤖 HE-Drive</h1>
     <h2> Human-Like End-to-End Driving with Vision Language Models</h2> <br>
      <strong>We will open source the complete code after the paper is accepted ！</strong> <br><br>
-     <a href='#'><img src='https://img.shields.io/badge/arXiv-HE_Drive-green' alt='arxiv'></a>
+     <a href='https://arxiv.org/abs/2410.05051'><img src='https://img.shields.io/badge/arXiv-HE_Drive-green' alt='arxiv'></a>
      <a href='https://jmwang0117.github.io/HE-Drive/'><img src='https://img.shields.io/badge/Project_Page-HE_Drive-green' alt='Project Page'></a>
 </div>
 
