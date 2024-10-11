@@ -26,14 +26,16 @@
 
 <br>
 
-<!-- 
+## 🚀 Citing
+
 ```
-@article{wang2024occrwkv,
-title={OccRWKV: Rethinking Efficient 3D Semantic Occupancy Prediction with Linear Complexity},
-author={Wang, Junming and Yin, Wei and Long, Xiaoxiao and Zhang, Xinyu and Xing, Zebing and Guo, Xiaoyang and Qian, Zhang},
-year={2024}
-      } 
-``` -->
+@article{wang2024he,
+  title={HE-Drive: Human-Like End-to-End Driving with Vision Language Models},
+  author={Wang, Junming and Zhang, Xingyu and Xing, Zebin and Gu, Songen and Guo, Xiaoyang and Hu, Yang and Song, Ziying and Zhang, Qian and Long, Xiaoxiao and Yin, Wei},
+  journal={arXiv preprint arXiv:2410.05051},
+  year={2024}
+} 
+```
 
 Please kindly star ⭐️ this project if it helps you. We take great efforts to develop and maintain it 😁.
 
