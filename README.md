@@ -50,7 +50,7 @@ Please kindly star ⭐️ this project if it helps you. We take great efforts to
 
 - [x] nuScenes
 - [x] Real-World Data
-- [x] OpenScene
+- [x] OpenScene/NAVSIM
 
 
 ## 🏆 Acknowledgement
@@ -58,4 +58,6 @@ Many thanks to these excellent open source projects:
 - [SparseDrive](https://github.com/swc-17/SparseDrive)
 - [DP](https://github.com/real-stanford/diffusion_policy)
 - [DP3](https://github.com/YanjieZe/3D-Diffusion-Policy)
+- [OpenScene](https://github.com/OpenDriveLab/OpenScene)
+- [NAVSIM](https://github.com/autonomousvision/navsim)
 
