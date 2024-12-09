@@ -85,6 +85,8 @@ Pack the meta-information and labels of the dataset, and generate the required p
 ```bash
 sh scripts/create_data.sh
 ```
+> [!NOTE]
+> Generate 3D representation using SparseDrive second stage checkpoint!
 
 ### Commence training and testing
 ```bash
