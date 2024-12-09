@@ -89,6 +89,13 @@ sh scripts/create_data.sh
 > [!NOTE]
 > Generate 3D representation using SparseDrive second stage checkpoint!
 
+
+### Commence training and testing
+```bash
+# train
+sh scripts/train.sh
+```
+
 ### Install Ollama and Llama 3.2-Vision 11B
 > [!NOTE]
 > Download Ollama 0.4, then run:
@@ -102,16 +109,12 @@ ollama run llama3.2-vision-11b
 > 
 > Please prepare at least 10 sets of VQA templates to complete the dialogue, focusing the llama knowledge domain on driving style assessment.
 
-### Commence training and testing
-```bash
-# train
-sh scripts/train.sh
+### Commence testing
 
+```bash
 # test
 sh scripts/test.sh
 ```
-
-
 
 ## 💽 Dataset
 
