@@ -48,6 +48,7 @@ Please kindly star ⭐️ this project if it helps you. We take great efforts to
 
 ## 🛠️ Installation
 
+> [!NOTE]
 > Installation steps follow [SparseDrive](https://github.com/swc-17/SparseDrive)
 
 ### Set up a new virtual environment
@@ -105,7 +106,7 @@ sh scripts/test.sh
 
 ## 🏆 Acknowledgement
 Many thanks to these excellent open source projects:
-- [SparseDrive](https://github.com/swc-17/SparseDrive) - End-to-End Autonomous Driving via Sparse Scene Representation
+- [SparseDrive](https://github.com/swc-17/SparseDrive) 
 - [DP](https://github.com/real-stanford/diffusion_policy)
 - [DP3](https://github.com/YanjieZe/3D-Diffusion-Policy)
 - [OpenScene](https://github.com/OpenDriveLab/OpenScene)
