@@ -30,6 +30,8 @@
   <img src="misc/scoring.png" width = 100% height = 100%/>
 </p>
 <br>
+
+
 ## 🚀 Citing
 
 ```
@@ -45,6 +47,8 @@ Please kindly star ⭐️ this project if it helps you. We take great efforts to
 
 
 ## 🛠️ Installation
+
+> Installation steps follow [SparseDrive](https://github.com/swc-17/SparseDrive)
 
 ### Set up a new virtual environment
 ```bash
@@ -101,7 +105,7 @@ sh scripts/test.sh
 
 ## 🏆 Acknowledgement
 Many thanks to these excellent open source projects:
-- [SparseDrive](https://github.com/swc-17/SparseDrive)
+- [SparseDrive](https://github.com/swc-17/SparseDrive) - End-to-End Autonomous Driving via Sparse Scene Representation
 - [DP](https://github.com/real-stanford/diffusion_policy)
 - [DP3](https://github.com/YanjieZe/3D-Diffusion-Policy)
 - [OpenScene](https://github.com/OpenDriveLab/OpenScene)
