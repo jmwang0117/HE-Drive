@@ -90,7 +90,7 @@ sh scripts/create_data.sh
 > Generate 3D representation using SparseDrive second stage checkpoint!
 
 
-### Commence training and testing
+### Commence training
 ```bash
 # train
 sh scripts/train.sh
@@ -105,7 +105,7 @@ ollama run llama3.2-vision-11b
 ```
 
 > [!IMPORTANT]
-> Llama 3.2 Vision 11B requires least 8GB of VRAM, and the 90B model requires at least 64 GB of VRAM.
+> Llama 3.2 Vision 11B requires least 8GB of VRAM.
 > 
 > Please prepare at least 10 sets of VQA templates to complete the dialogue, focusing the llama knowledge domain on driving style assessment.
 
